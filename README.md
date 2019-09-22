@@ -1,6 +1,6 @@
-# Hero Demo
+# Hackathon Demo
 
-> A Vue.js project for Simbachain Dapp Client (Live Demo: https://herodemo.simbachain.com)
+> A project for Simbachain Dapp Client (Live Demo: https:// )
 
 ## Build Setup
 
