@@ -17,7 +17,7 @@
     "axios": "^0.18.0",
     "copy-webpack-plugin": "^4.5.3",
     "ethers": "^3.0.29",
-    "node-sass": "^4.9.2",
+    "node-sass": "^7.0.0",
     "places.js": "^1.10.0",
     "sass-loader": "^7.0.3",
     "secure-ls": "^1.2.1",
